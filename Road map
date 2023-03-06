@@ -1,0 +1,185 @@
+    *Core Concepts 
+
+ 
+
+    1. Arrays and Strings 
+
+    a. Kadane's algorithms  
+
+    b. Dutch national flag algorithm 
+
+    c. Sliding window 
+
+    d. Two pointers 
+
+ 
+
+    2. Multidimensional Arrays 
+
+    a. Traversal based problems  
+
+    b. Rotation based problems 
+
+     
+
+    3. Recursion and back tracking  
+
+    a. Basic recursion problems  
+
+    b. Divide and Conquer 
+
+ 
+
+    4. String Algorithm 
+
+    a. Insertion Sorting  
+
+    b. Selection Sorting 
+
+     
+
+    5. Binary Search Application 
+
+    a. Binary search on Array  
+
+    b. Binary search on Matrix 
+
+ 
+
+    6. Linked List  
+
+    a. Reversal Problem 
+
+    b. Sorting problems 
+
+    c. Slow and Fast pointers  
+
+    d. Modify in linked list  
+
+ 
+
+     7. Stack and Queues  
+
+     a. Implementation based problems  
+
+     b. Application Based Problems  
+
+ 
+
+     8. Binary Tree 
+
+     a. Tree Traversals 
+
+     b. construction of trees  
+
+     c. Tree views  
+
+     d. Standard problems 
+
+ 
+
+     9. BST (Binary search tree) 
+
+     a. Construction of BST 
+
+     b. Conversion Based Problems  
+
+     c. Modification in BST 
+
+     d. Standard Problmes  
+
+  
+
+    10. Priority Queues and Heaps 
+
+     a. Implementation Based Problems  
+
+     b. Conversion Based Problems  
+
+     C. K Based problems  
+
+ 
+
+    ^HARD TOPICS^ 
+
+     11. Graphs  
+
+      a. Graph traversal –BFS and DFS  
+
+      b. MST 
+
+      c. Shortest path algorithm  
+
+      d. Topological Sort  
+
+      e. Graph in matrix  
+
+ 
+
+     12. Dynamic Programming (DP) 
+
+      a. DP with Arrays  
+
+      b. DP with Strings  
+
+      c. DP with Maths 
+
+      d. DP with Trees 
+
+      e. Breaking and position based problems 
+
+      f. Counting based problems  
+
+ 
+
+     13. Hard Recursion and Backtracing Question (imp) 
+
+ 
+
+     14. Other topics (For Extra DSA learning ) 
+
+      a. Hashmaps  
+
+      b. Trees 
+
+      c. Bit manipulation  
+
+      d. Greedy algorithms  
+
+      e. Circular Queues  
+
+      f. Dequeus – HOT TOPIC ( most asked questions ) 
+
+      g. Doubly and Circular Linked list (LL) 
+
+      h. String Algoritms like: KMP and Z Algorithms  
+
+ 
+
+ 
+
+Learning Resources  
+
+YT channels  
+
+Code with harry 
+
+Anuj Bhaiya 
+
+Luv 
+
+Love babbar 
+
+Coding ninja 
+
+ 
+
+Practicing platforms 
+
+Hackerearth  
+
+Leetcode  
+
+Codestudio 
+
+ 
